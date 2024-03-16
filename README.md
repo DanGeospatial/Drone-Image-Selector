@@ -1,5 +1,5 @@
-# SpatialDirectoryPreviewer
-A simple tool for quickly listing geospatial files, previewing the file and displaying metadata.
+# Drone-Image-Selector
+A simple tool for quickly displaying and selecting images from drone flight paths.
 
 Important! This version does not have all features fully implemented.
 
@@ -10,10 +10,9 @@ Dependencies:
 - Maven 4.0
 
 Usage:
-- Currently supports .shp and .tiff files
+- Currently supports .tiff or .jpeg files
 - After a folder is selected then the window will automatically populate
-- Toggling the preview window will bring up a seperate window for currently selected file
-
+- Toggling the preview window will change to list mode from path mode.
 
 TODO:
 - Expand this README
